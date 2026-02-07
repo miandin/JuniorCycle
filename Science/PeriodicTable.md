@@ -53,7 +53,8 @@ For the first 20 elements, use:
 
 ## 4) Groups You Must Know (and their “personality”)
 
-Teach these as “teams” in the classroom.
+<img width="727" height="524" alt="image" src="https://github.com/user-attachments/assets/34d60d98-28e6-4a65-94c9-7354e62a5fe6" />
+
 
 ### Group 1: Alkali Metals (Li, Na, K…)
 
