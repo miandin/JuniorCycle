@@ -3,6 +3,8 @@
 **Analogy:** Think of the Periodic Table like a **classroom seating plan**.
 Atoms are “students,” and where they sit tells you their behaviour.
 
+<img width="723" height="525" alt="image" src="https://github.com/user-attachments/assets/0815b92b-d31f-4f4a-b97d-69cd3c723e22" />
+
 ### What the layout means
 
 * **Rows = Periods** (left to right)
