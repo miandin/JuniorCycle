@@ -237,7 +237,7 @@ Use the ion charges to balance so the total charge = **0**
 
 ---
 
-## A tiny “memory script” your student can repeat
+## A tiny “memory script” you can repeat
 
 **“Periods tell shells. Groups tell outer electrons.
 Outer electrons decide ions and bonding.
@@ -245,4 +245,198 @@ Metals give → positive ions. Non-metals take → negative ions.
 Ionic = transfer (metal + non-metal).
 Covalent = share (non-metal + non-metal).
 Formulas balance charges to make zero.”**
+
+
+
+
+---
+
+## Junior Cycle Chemistry — Periodic Table & Bonding
+
+### 1) Periodic Table Structure
+
+* **Period (row)** = number of **electron shells**.
+* **Group (column)** = same number of **outer (valence) electrons** → **similar properties**.
+
+**Memory:** *Periods = shells. Groups = outer electrons.*
+
+---
+
+## 2) Atom Basics (must-know)
+
+* **Proton:** + charge, in nucleus
+* **Neutron:** 0 charge, in nucleus
+* **Electron:** – charge, in shells
+
+### Atomic number
+
+* **Atomic number = number of protons.**
+* In a **neutral atom:** protons = electrons.
+
+### Isotopes
+
+* **Isotopes = same element (same protons) but different neutrons.**
+* Same **atomic number**, different **mass**.
+
+---
+
+## 3) Electron Shell Rule (first 20 elements)
+
+Shell filling rule: **2, 8, 8**
+
+* 1st shell holds **2**
+* 2nd holds **8**
+* 3rd holds **8** (Junior Cycle level)
+
+Example: Sodium (11) = **2,8,1**
+
+**Key idea:** Outer electrons control **reactivity and bonding**.
+
+---
+
+## 4) Important Groups (names + behaviour)
+
+### Group 1: Alkali metals (Li, Na, K…)
+
+* **1 outer electron**
+* Lose 1 → **+1 ion**
+* Very reactive (more reactive down the group)
+
+### Group 2: Alkaline earth metals (Be, Mg, Ca…)
+
+* **2 outer electrons**
+* Lose 2 → **+2 ion**
+
+### Group 7: Halogens (F, Cl, Br, I…)
+
+* **7 outer electrons**
+* Gain 1 → **–1 ion**
+* Very reactive non-metals
+
+### Group 0: Noble gases (He, Ne, Ar…)
+
+* Outer shell **full**
+* **Unreactive** (already stable)
+
+**Quick ion rule:**
+Group 1 → +1, Group 2 → +2, Group 7 → –1, Group 0 → none
+
+---
+
+## 5) Physical vs Chemical Property (exam favourite)
+
+### Physical property = no new substance formed
+
+Examples: **soft, shiny, low density, melting point**
+
+### Chemical property = reaction happens (new substance)
+
+Examples: **reacts with water, reacts with oxygen/air, forms ions**
+
+**Tip:** If the sentence contains “reacts,” it’s **chemical**.
+
+---
+
+## 6) Metals vs Non-metals (2 differences)
+
+Pick any two pairs:
+
+* Metals **conduct** electricity; non-metals **don’t** (usually)
+* Metals are **shiny**; non-metals **dull**
+* Metals are **malleable/ductile**; non-metals **brittle**
+* Metals form **positive ions**; non-metals form **negative ions**
+
+---
+
+## 7) Ions (charged atoms)
+
+* **Ion = atom with charge** because electrons changed.
+* Lose electrons → **positive ion (cation)**
+  Example: Na → Na⁺
+* Gain electrons → **negative ion (anion)**
+  Example: Cl → Cl⁻
+
+**Memory:** *Lose e⁻ → plus. Gain e⁻ → minus.*
+
+---
+
+## 8) Why Atoms Bond
+
+Atoms bond to get a **full outer shell** (stable).
+
+* Full = **2** (first shell) or **8** (others)
+
+---
+
+## 9) Bonding Types (must compare)
+
+### Ionic bonding (metal + non-metal)
+
+* **Electron transfer**
+* Metal **loses**, non-metal **gains**
+* Forms **ions**, held by **attraction of + and –**
+
+Example: Na⁺ + Cl⁻ → **NaCl**
+
+### Covalent bonding (non-metal + non-metal)
+
+* **Electron sharing**
+* Forms **molecules**
+
+Example: H and O share electrons → **H₂O**
+
+---
+
+## 10) Valency (Combining Power) — the shortcut for formulas
+
+* **Valency = how many electrons an atom loses, gains, or shares** in bonding.
+  Quick rules:
+* Group 1: valency **1**
+* Group 2: valency **2**
+* Group 7: valency **1**
+* Oxygen usually valency **2**
+* Aluminium usually valency **3**
+* Nitrogen usually valency **3** (often makes 3 bonds)
+
+---
+
+## 11) Writing Ionic Formulas (fast method)
+
+**Rule:** Total charge must add to **zero**.
+
+### “Cross-over” method
+
+1. Write ions with charges: Mg²⁺ and Cl⁻
+2. Cross the numbers to become subscripts → **MgCl₂**
+3. Simplify if possible
+
+More examples:
+
+* Al³⁺ and O²⁻ → **Al₂O₃**
+* K⁺ and S²⁻ → **K₂S**
+* Ca²⁺ and N³⁻ → **Ca₃N₂**
+
+---
+
+## 12) Reading Particle/Model Diagrams → Formula
+
+* Different colours = different elements
+* **Count each type of atom**
+* Write formula using those counts
+
+Example: 1 nitrogen + 3 hydrogen → **NH₃**
+
+---
+
+### Mini self-test (5 quick checks)
+
+1. Define atomic number.
+2. What’s an isotope?
+3. Why are noble gases unreactive?
+4. Name bonding type: metal + non-metal.
+5. Write formula: Mg²⁺ with Cl⁻.
+
+---
+
+
 
